@@ -20,7 +20,7 @@ layout:
 
 # Welcome
 
-Welcome !!!!!!!
+Welcome 
 
 ### Jump right in
 
